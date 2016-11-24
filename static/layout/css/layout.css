@@ -1,0 +1,17 @@
+.copyright{
+    background: #eee;
+    font-size: 13px;
+    text-align: center;
+    color: #555555;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    border-top: 1px solid #eee;
+}
+.content{
+    min-height: 790px;
+}
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
